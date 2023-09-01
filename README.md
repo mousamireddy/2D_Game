@@ -1,2 +1,5 @@
 # 3D_Game
- As a solo developer, I conceptualized and developed my debut 2D game using the Unity game engine.  In this project, I took my first steps into the world of game development, leveraging my passion for  gaming and programming. "Flash" is a captivating 2D game that showcases my ability to create engaging  gameplay experiences from scratch.
+
+I led a team to make a fun 3D game using Unity. In "EGG BREAKER," players enjoy an exciting journey 
+with cool levels and interactive story elements. This project shows how I worked with others and used 
+my skills to create an enjoyable game experience.
